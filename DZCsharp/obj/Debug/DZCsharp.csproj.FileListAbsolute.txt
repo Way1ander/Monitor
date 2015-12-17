@@ -79,3 +79,6 @@ F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.
 F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
 F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
 F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+F:\DZCsharp\DZCsharp\Monitor\DZCsharp\bin\Debug\DZCsharp.exe.config
+F:\DZCsharp\DZCsharp\Monitor\DZCsharp\obj\Debug\DZCsharp.exe
+F:\DZCsharp\DZCsharp\Monitor\DZCsharp\obj\Debug\DZCsharp.pdb
