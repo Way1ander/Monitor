@@ -1,0 +1,81 @@
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+c:\users\артём\documents\visual studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+G:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+G:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+G:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+G:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+J:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+J:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+J:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+J:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+X:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+X:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+X:\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+X:\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+C:\Users\Артём\Dropbox\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+X:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+X:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+X:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+X:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+G:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+G:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+G:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+G:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+J:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+J:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+J:\С#\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+J:\С#\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
+F:\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe.config
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.exe
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.pdb
+F:\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.exe
+F:\DZCsharp\DZCsharp\DZCsharp\bin\Debug\DZCsharp.pdb
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csprojResolveAssemblyReference.cache
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Form1.resources
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.Properties.Resources.resources
+F:\DZCsharp\DZCsharp\DZCsharp\obj\Debug\DZCsharp.csproj.GenerateResource.Cache
